@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Braxton Tillman! 👋  
+🚀 **Navy Veteran | Software Engineer | AI & Cloud Enthusiast**  
 
-<!--
-**BraxtonTillman/BraxtonTillman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student at Florida Gulf Coast University (FGCU), graduating in 2026**. Originally from Tennessee, I now live in Naples, FL. My interests lie in **AI, cloud computing, cybersecurity, and game development**. Currently, I'm interning in **identity & access management**, working with AWS and LLMs to build AI-driven solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools:
+- **Languages:** Python, C++, JavaScript, SQL  
+- **Technologies:** AWS (SageMaker, S3, Lambda), PostgreSQL, Git, Docker  
+- **Specialties:** Machine Learning, Cloud Infrastructure, Cybersecurity, Game Development  
+
+---
+
+### 📊 GitHub Stats:
+![Braxton's GitHub stats](https://github-readme-stats.vercel.app/api?username=braxtontillman&show_icons=true&theme=tokyonight)  
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BraxtonTillman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-braxtontillman-black?style=flat-square&logo=github)](https://github.com/braxtontillman)
+
+---
+
+⭐️ **Fun Fact:** I'm currently working on a chatbot project that integrates LLMs with AWS for my internship!  
+
