@@ -16,7 +16,7 @@ I'm a **Software Engineering student at Florida Gulf Coast University (FGCU), gr
 ![Braxton's GitHub stats](https://github-readme-stats.vercel.app/api?username=braxtontillman&show_icons=true&theme=tokyonight)  
 
 📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BraxtonTillman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BraxtonTillman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/braxtontillman)  
 [![GitHub](https://img.shields.io/badge/GitHub-braxtontillman-black?style=flat-square&logo=github)](https://github.com/braxtontillman)
 
 ---
