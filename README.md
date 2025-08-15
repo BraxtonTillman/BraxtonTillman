@@ -8,7 +8,7 @@ I'm a **Software Engineering student at Florida Gulf Coast University (FGCU), gr
 ### 🔧 Tech Stack & Tools:
 - **Languages:** Python, C++, JavaScript, SQL  
 - **Technologies:** AWS (SageMaker, S3, Lambda), PostgreSQL, Git, Docker  
-- **Specialties:** Machine Learning, Cloud Infrastructure, Cybersecurity, Game Development  
+- **Specialties:** Machine Learning, Cloud Infrastructure, Web Development, Game Development  
 
 ---
 
