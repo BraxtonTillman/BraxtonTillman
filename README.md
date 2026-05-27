@@ -1,25 +1,54 @@
-# Hi there, I'm Braxton Tillman! 👋  
-🚀 **Navy Veteran | Software Engineer | AI & Cloud Enthusiast**  
+![banner](images/banner.png)
 
-I'm a **Software Engineering student at Florida Gulf Coast University (FGCU), graduating in 2026**. Originally from Tennessee, I now live in Naples, FL. My interests lie in **AI, cloud computing, cybersecurity, and game development**. Currently, I'm interning in **identity & access management**, working with AWS and LLMs to build AI-driven solutions.  
-
----
-
-### 🔧 Tech Stack & Tools:
-- **Languages:** Python, C++, JavaScript, SQL  
-- **Technologies:** AWS (SageMaker, S3, Lambda), PostgreSQL, Git, Docker  
-- **Specialties:** Machine Learning, Cloud Infrastructure, Web Development, Game Development  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=4FB3FF&center=true&vCenter=true&width=720&lines=Software+engineer+at+the+hardware%2Fsoftware+boundary;Currently+building+TinyGit+in+C;Currently+tracking+aircraft+with+a+Pi+and+an+SDR;Headed+for+avionics%2C+flight+software%2C+GNC" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![Braxton's GitHub stats](https://github-readme-stats.vercel.app/api?username=braxtontillman&show_icons=true&theme=tokyonight)  
+## 0x00 > Whoami
 
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BraxtonTillman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/braxtontillman)  
-[![GitHub](https://img.shields.io/badge/GitHub-braxtontillman-black?style=flat-square&logo=github)](https://github.com/braxtontillman)
+Howdy, I'm Braxton! Originally from Tennessee, I'm a U.S. Navy veteran as a Hospital Corpsman turned Software Engineer at Fischer Identity. 
+
+I like the seam where software meets hardware, like registers, noisy sensors, microcontrollers with no time to waste. I'm into spaceflight and autonomous vehicles.
+
+I finished my B.S. in Software Engineering at FGCU and am currently applying to ECE master's programs on the Microsystems / Electronic ICs track.
 
 ---
 
-⭐️ **Fun Fact:** I'm currently working on a chatbot project that integrates LLMs with AWS for my internship!  
+## 0x01 > Currently hacking on
 
+🛰️ **TinyGit** &nbsp;·&nbsp; *from-scratch Git in C*  
+Past `git init`, working through `git add` with SHA-1 blob storage. I actually wanted to understand what lives inside `.git/` instead of just typing commands.
+
+📡 **ADS-B Station** &nbsp;·&nbsp; *Raspberry Pi 5 + RTL-SDR*  
+Listening to aircraft over Southwest Florida on 1090 MHz. Eventually, I want to write the Mode S decoder myself instead of using `dump1090`.
+
+🛰️ **STM32 flight computer** &nbsp;·&nbsp; *sensor fusion playground*  
+Next up after TinyGit.
+
+---
+
+## 0x02 > Stack
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,raspberrypi,arduino&perline=10)](https://skillicons.dev)
+
+**Daily:** C, Python, Linux, Git  
+**Learning:** Verilog / SystemVerilog, analog & device physics, DSP, embedded toolchains  
+**Touched:** FastAPI, LangChain, AVR assembly, CARLA, Supabase / pgvector
+
+---
+
+## 0x03 > The vibe
+
+On the keyboard: best in the morning, useless by 3 pm. I'm a "why does this work" learner, which means I'm slow.
+
+Off the keyboard: golf, writing, and hopefully traveling. Probably gonna own a winery one day. Lately, reading my way through aerospace history, like Apollo, flight software, that kind of thing. Current reads are on [Goodreads](https://www.goodreads.com/braxtontillman).
+
+---
+
+<p align="center">
+  <i>"Built on Earth, hopefully read from orbit one day."</i>
+</p>
