@@ -10,7 +10,7 @@
 
 ## 0x00 > Whoami
 
-Howdy, I'm Braxton! Originally from Tennessee, I'm a U.S. Navy veteran as a Hospital Corpsman turned Software Engineer at Fischer Identity. 
+Howdy, I'm Braxton! Originally from Tennessee, I'm a U.S. Navy Hospital Corpsman turned Software Engineer at Fischer Identity.
 
 I like the seam where software meets hardware, like registers, noisy sensors, microcontrollers with no time to waste. I'm into spaceflight and autonomous vehicles.
 
@@ -43,12 +43,12 @@ Next up after TinyGit.
 
 ## 0x03 > The vibe
 
-On the keyboard: best in the morning, useless by 3 pm. I'm a "why does this work" learner, which means I'm slow.
+On the keyboard: best in the morning, useless by 3 pm. I'm a "why does this work" learner, which means I get further but slower.
 
 Off the keyboard: golf, writing, and hopefully traveling. Probably gonna own a winery one day. Lately, reading my way through aerospace history, like Apollo, flight software, that kind of thing. Current reads are on [Goodreads](https://www.goodreads.com/braxtontillman).
 
 ---
 
 <p align="center">
-  <i>"Built on Earth, hopefully read from orbit one day."</i>
+  <i>"Built on Earth, hopefully reading from orbit one day."</i>
 </p>
