@@ -12,16 +12,16 @@
 
 Howdy, I'm Braxton! Originally from Tennessee, I'm a U.S. Navy Hospital Corpsman turned Software Engineer at Fischer Identity.
 
-I like the seam where software meets hardware, like registers, noisy sensors, microcontrollers with no time to waste. I'm into spaceflight and autonomous vehicles.
+I like the seam where software meets hardware, like registers, noisy sensors, and microcontrollers with no time to waste. I'm into spaceflight and autonomous vehicles.
 
-I finished my B.S. in Software Engineering at FGCU and am currently applying to ECE master's programs on the Microsystems / Electronic ICs track.
+I finished my B.S. in Software Engineering at FGCU, and I am currently going to UF for their ECE graduate program. 
 
 ---
 
 ## 0x01 > Currently hacking on
 
 🛰️ **TinyGit** &nbsp;·&nbsp; *from-scratch Git in C*  
-Past `git init`, working through `git add` with SHA-1 blob storage. I actually wanted to understand what lives inside `.git/` instead of just typing commands.
+Just finished as of 07/21/2026. It's a byte-for-byte implementation of Git based on the `init` -> `add` -> `commit` loop. 
 
 📡 **ADS-B Station** &nbsp;·&nbsp; *Raspberry Pi 5 + RTL-SDR*  
 Listening to aircraft over Southwest Florida on 1090 MHz. Eventually, I want to write the Mode S decoder myself instead of using `dump1090`.
