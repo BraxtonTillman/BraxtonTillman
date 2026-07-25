@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=4FB3FF&center=true&vCenter=true&width=720&lines=Software+engineer+at+the+hardware%2Fsoftware+boundary;Currently+building+TinyGit+in+C;Currently+tracking+aircraft+with+a+Pi+and+an+SDR;Headed+for+avionics%2C+flight+software%2C+GNC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=4FB3FF&center=true&vCenter=true&width=720&lines=Software+engineer+at+the+hardware%2Fsoftware+boundary;Currently+building+TinyGit+in+C;Currently+tracking+aircraft+with+a+Pi+and+an+SDR;Headed+for+avionics%2C+flight+software%2C+GNC](https://readme-typing-svg.demolab.com/demo/?color=F77F51&lines=Software+Engineer+at+the+software%2Fhardware+level;Currently+working+on+a+STM32+Flight+Computer;Working+on+my+Master's+in+Electrical+and+Computer+Engineering+at+UF;Proud+Navy+Veteran.+Go+Navy.+Go+Gators](https://readme-typing-svg.demolab.com/demo/?color=F77F51&lines=Software+Engineer+at+the+software%2Fhardware+level;Currently+working+on+a+STM32+Flight+Computer;UF+ECE+Masters+Bound;Proud+Navy+Veteran.+Go+Navy.+Go+Gators" alt="Typing SVG" />
   </a>
 </p>
 
